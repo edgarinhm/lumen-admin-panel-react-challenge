@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lumen-admin-panel-react-challenge/static/css/main.ac8aa63e.css",
+    "main.js": "/lumen-admin-panel-react-challenge/static/js/main.bc132f16.js",
+    "index.html": "/lumen-admin-panel-react-challenge/index.html",
+    "main.ac8aa63e.css.map": "/lumen-admin-panel-react-challenge/static/css/main.ac8aa63e.css.map",
+    "main.bc132f16.js.map": "/lumen-admin-panel-react-challenge/static/js/main.bc132f16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac8aa63e.css",
+    "static/js/main.bc132f16.js"
+  ]
+}
