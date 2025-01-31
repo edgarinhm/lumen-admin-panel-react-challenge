@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="10" failures="0" errors="0" time="28.026">
+  <testsuite name="src\tests\ProposalList.test.jsx" errors="0" failures="0" skipped="0" timestamp="2025-01-31T15:32:56" time="11.339" tests="4">
+    <testcase classname="&lt;ProposalList&gt;" name="renders speaker" time="0.221">
+    </testcase>
+    <testcase classname="&lt;ProposalList&gt;" name="uses proper CSS class for accepted proposal" time="0.018">
+    </testcase>
+    <testcase classname="&lt;ProposalList&gt;" name="uses proper CSS class for rejected proposal" time="0.017">
+    </testcase>
+    <testcase classname="&lt;ProposalList&gt;" name="rejects proposal" time="0.039">
+    </testcase>
+  </testsuite>
+  <testsuite name="src\tests\ProposalListPage.test.jsx" errors="0" failures="0" skipped="0" timestamp="2025-01-31T15:32:56" time="11.47" tests="1">
+    <testcase classname="&lt;ProposalListPage&gt;" name="updates changed proposal status locally" time="0.312">
+    </testcase>
+  </testsuite>
+  <testsuite name="src\tests\ProposalDetailsPage.test.jsx" errors="0" failures="0" skipped="0" timestamp="2025-01-31T15:32:56" time="11.662" tests="5">
+    <testcase classname="&lt;ProposalDetailsPage&gt;" name="renders &lt;Loading&gt; before receiving response from API" time="0.287">
+    </testcase>
+    <testcase classname="&lt;ProposalDetailsPage&gt;" name="does not render &lt;ProposalDetails&gt; before receiving response from API" time="0.016">
+    </testcase>
+    <testcase classname="&lt;ProposalDetailsPage&gt;" name="uses proposal title as header" time="0.031">
+    </testcase>
+    <testcase classname="&lt;ProposalDetailsPage&gt;" name="uses /talks/:talkId API response to render proposal: category" time="0.012">
+    </testcase>
+    <testcase classname="&lt;ProposalDetailsPage&gt;" name="uses /talks/:talkId API response to render proposal: speaker" time="0.017">
+    </testcase>
+  </testsuite>
+</testsuites>
