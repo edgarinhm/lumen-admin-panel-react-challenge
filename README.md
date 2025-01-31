@@ -1,5 +1,12 @@
 # Conference Admin Panel
 
+Demo: https://edgarinhm.github.io/lumen-admin-panel-react-challenge
+
+![alt text](image.png)
+
+screenshot test:
+![alt text](image-1.png)
+
 You are creating an [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) of a conference admin panel.
 
 This task uses **React Hooks**, **React Router** and **React Testing Library (`@testing-library/react`)**.
